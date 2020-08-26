@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Thanks for trying Cooca
 
-You can use the [editor on GitHub](https://github.com/ColonialIII/cocoabot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cocoa is a Discord Bot built in Javascript that makes viewing Bedwars Stats on Discord a lot nicer. While there are a million bots that show Hypixel Stats and Bedwars Stats, there aren't any bots that track the user and make projections on what a user's stats will be at a given level and date. Cocoa offers all sorts of interesting ways to view future projections such as seeing Stat Projections at certain stars, Stat Projections at the next prestige, Stat Projections by 2021, and Daily/Session Statistics.
 
 ### Markdown
 
